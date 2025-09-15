@@ -1,0 +1,7 @@
+langchain_core==0.3.76
+langchain_google_genai==2.1.10
+langchain_mcp_adapters==0.1.9
+langgraph==0.6.7
+mcp==1.14.0
+protobuf==4.25.3
+tenacity==8.2.3
